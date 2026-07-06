@@ -1,0 +1,17 @@
+/* Primary Button Color */
+.button-primary {
+    background-color: #111827;
+    border-bottom: 8px solid #111827;
+    border-left: 18px solid #111827;
+    border-right: 18px solid #111827;
+    border-top: 8px solid #111827;
+}
+
+/* Success Button */
+.button-success {
+    background-color: #059669;
+    border-bottom: 8px solid #059669;
+    border-left: 18px solid #059669;
+    border-right: 18px solid #059669;
+    border-top: 8px solid #059669;
+}
